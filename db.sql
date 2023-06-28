@@ -1,6 +1,3 @@
-CREATE DATABASE PemroWeb;
-USE PemroWeb;
-
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
 -- https://www.phpmyadmin.net/
